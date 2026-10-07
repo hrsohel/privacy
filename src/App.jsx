@@ -8,7 +8,6 @@ function App() {
       
       <p><strong>Draft for owner review — replace all bracketed fields before publishing.</strong></p>
 
-      <p>Effective date: [Date this policy takes effect]</p>
       <p>Last updated: 7 October 2026</p>
 
       <h2>1. Who we are</h2>
@@ -89,14 +88,6 @@ function App() {
       <h2>12. Changes to this policy</h2>
       <p>We may update this policy when our features or information practices change. We will update the date above and [describe how users will be informed of material changes]. Where required, we will obtain consent before applying a new use of information.</p>
 
-      <h2>13. Contact</h2>
-      <ul>
-        <li><strong>App:</strong> Givano</li>
-        <li><strong>Responsible organization:</strong> [Legal company or developer name]</li>
-        <li><strong>Privacy email:</strong> <a href="mailto:nourdine42@icloud.com">nourdine42@icloud.com</a></li>
-        <li><strong>Postal address:</strong> [Business address and country]</li>
-        <li><strong>Account deletion request page:</strong> [Public account deletion request URL]</li>
-      </ul>
 
       <hr />
 
